@@ -6,7 +6,7 @@ description: >-
     Course policies and information.
 ---
 
-# Large Language Models Course Syllabus
+# Data Structures and Algorithms Course Syllabus
 {:.no_toc}
 
 ## Table of contents

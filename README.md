@@ -5,10 +5,10 @@ nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Large Language Models
+  name: Data Structures and Algorithms
 ---
 
-# Large Language Models Course
+# Data Structures and Algorithms Course
 
 Welcome to the Large Language Models course at Sharif University of Technology! This course delves into the fascinating world of large language models, a pivotal area of artificial intelligence that has transformed the field of natural language processing (NLP). Over the semester, we will explore the theoretical foundations and practical applications of these cutting-edge models.
 
