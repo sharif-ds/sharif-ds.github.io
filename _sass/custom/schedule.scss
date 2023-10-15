@@ -93,14 +93,10 @@
     }
 
     &.lecture {
-      background-color: $grey-dk-000;
-    }
-
-    &.section {
       background-color: $purple-000;
     }
 
-    &.office-hours {
+    &.ta-class {
       background-color: $blue-000;
     }
   }
