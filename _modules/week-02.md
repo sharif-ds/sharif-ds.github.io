@@ -1,10 +1,7 @@
 ---
 week: 2
-title: Complexity analysis
+title: Complexity Analysis I
 ---
 
-Mehr 30
-: **Lecture 3**{: .label .label-purple }Time complexity analysis
-
-Aban 2
-: **Lecture 4**{: .label .label-purple }Space complexity analysis
+Mehr 9
+: **Lecture 2**{: .label .label-purple } Time complexity analysis: Insertion Sort

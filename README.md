@@ -1,6 +1,6 @@
 ---
 layout: home
-title: LLM Course
+title: DS Course
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -10,13 +10,8 @@ seo:
 
 # Data Structures and Algorithms Course
 
-Welcome to the Large Language Models course at Sharif University of Technology! This course delves into the fascinating world of large language models, a pivotal area of artificial intelligence that has transformed the field of natural language processing (NLP). Over the semester, we will explore the theoretical foundations and practical applications of these cutting-edge models.
+This Course is designed to provide students, who have already completed Advanced Programming and Discrete Structures, with a comprehensive understanding of fundamental concepts in computer science. The course begins with a focus on time and space complexity analysis, enabling students to grasp the theoretical underpinnings of algorithmic efficiency. Emphasis is placed on understanding how to assess the efficiency of algorithms in terms of their execution time and memory requirements, thus enabling students to make informed decisions about algorithm selection for various problem-solving scenarios.
 
-In the rapidly evolving landscape of AI, large language models have emerged as powerful tools for understanding, generating, and manipulating human language. We will start by tracing the historical development of language models, from rule-based systems to statistical models, and finally to the modern era of deep learning-based models. These large language models, such as GPT-3 and its successors, have become instrumental in various NLP tasks, including text generation, sentiment analysis, question answering, and more.
+Moving forward, the course delves into various essential data structures, including linked lists, stacks, queues, and heaps. Students gain a profound understanding of how these structures operate, as well as their advantages and limitations in different contexts. Additionally, the course explores advanced topics such as tree and graph traversal, covering both breadth-first and depth-first search algorithms, allowing students to comprehend the nuances of navigating complex data structures. This segment of the course provides a solid foundation for understanding more intricate concepts, such as binary search trees and balanced trees, fostering a deeper understanding of data organization and management.
 
-Throughout the course, we will delve into the core components of large language models, including their architecture, training techniques, and fine-tuning strategies. We'll also address important ethical considerations, such as bias mitigation and fairness, which are crucial in the development and deployment of these models. Our aim is not only to equip you with the technical skills to work with large language models but also to foster a deep understanding of the responsible use of AI technologies.
-
-By the end of the semester, you'll have gained the knowledge and hands-on experience needed to apply large language models to real-world problems. Whether you aspire to build intelligent chatbots, improve language translation systems, or explore the ethical implications of AI, this course will provide you with a solid foundation to excel in the dynamic and exciting field of large language models.
-
-Join us on this journey to unlock the potential of large language models and shape the future of AI and NLP. Get ready to explore, innovate, and make a positive impact on the world of artificial intelligence!
-
+Moreover, the course delves into essential sorting algorithms, equipping students with the skills to compare and contrast various sorting techniques based on their efficiency and applicability in different scenarios. The students also learn about the principles of hashing and its practical applications in data retrieval and storage. The course culminates with a comprehensive study of shortest path algorithms, focusing on Dijkstra's and Bellman-Ford algorithms, enabling students to grasp the intricacies of pathfinding in a variety of network structures. By the end of the course, students are well-prepared to tackle real-world problems that require a solid understanding of data structure and algorithmic principles.

@@ -18,7 +18,7 @@ description: >-
 ---
 
 ## Course Description
-This course explores the theory and practical applications of large language models in the field of artificial intelligence. Students will learn about the architecture, training techniques, and various applications of large language models, such as GPT-3 and its successors.
+This course offers students an in-depth exploration of fundamental computer science concepts. Covering topics such as time and space complexity analysis, various data structures like linked lists, stacks, queues, and heaps, as well as advanced algorithms including tree and graph traversal, sorting techniques, binary search trees, hashing, and shortest path algorithms like Dijkstra and Bellman-Ford, the course equips students with a comprehensive understanding of efficient algorithm design and implementation for diverse problem-solving scenarios.
 
 ## Assessment
 - Assignments and quizzes
@@ -27,6 +27,5 @@ This course explores the theory and practical applications of large language mod
 - Class participation
 
 ## Prerequisites
-- Proficiency in Python programming
-- Basic understanding of machine learning and deep learning concepts
-- Familiarity with natural language processing (NLP) fundamentals is recommended but not required.
+- Proficiency in Python or C++ programming
+- Basic understanding of discrete structures
