@@ -11,4 +11,3 @@ degree: BSc
 ent_year: 1400
 major: Computer Engineering
 ---
-
