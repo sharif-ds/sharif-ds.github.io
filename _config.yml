@@ -36,9 +36,9 @@ footer_content:
 collections:
   staffers:
   modules:
+  assignments:
   schedules:
   announcements:
-  assignments:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -69,11 +69,6 @@ defaults:
       type: announcements
     values:
       layout: announcement
-  - scope:
-      path: ''
-      type: lectures
-    values:
-      layout: lecture
 
 compress_html:
   clippings: all
