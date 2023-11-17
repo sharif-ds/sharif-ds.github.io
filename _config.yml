@@ -38,7 +38,7 @@ collections:
   modules:
   schedules:
   announcements:
-  lectures:
+  assignments:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -54,6 +54,11 @@ defaults:
       type: modules
     values:
       layout: module
+  - scope:
+      path: ''
+      type: assignments
+    values:
+      layout: assignment
   - scope:
       path: ''
       type: schedules
