@@ -1,6 +1,6 @@
 ---
 name: Arshia Dadras
-role: Teaching Assistant
+role: Head Teaching Assistant
 email: arshiadadras1234@gmail.com
 linkedin: https://ir.linkedin.com/in/arshia-dadras-53b76217a
 github: https://github.com/ArshiaDadras
